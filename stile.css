@@ -1,0 +1,42 @@
+body{
+   background-image:url(screenshots/6.jpg);	
+}	
+a{
+	color: red;
+	text-decoration: none; 
+}    
+
+#d1{ 
+    color:#0000FF;
+     font-size:20px;
+}
+
+#d2{ 
+    color:#FFF300;
+}
+
+
+
+.Wanted{
+	border: 2px solid #000000;
+	
+}
+	
+
+
+
+
+.Wanted:hover{
+	border:10px solid #000000; 
+} 	
+
+.Wantd{
+	font-size: 50px;
+}
+
+
+.Кусок:hover{
+	border: 2px solid #ffffff;
+
+}
+
