@@ -375,7 +375,7 @@ td img {
 
 @media only screen
 and (min-device-width : 320px)
-and (max-device-width : 600px) {
+and (max-device-width : 1280px) {
 
   .header {
     background-color: darkslateblue;
